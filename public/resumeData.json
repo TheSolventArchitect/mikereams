@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Mike Reams",
+    "occupation": "Architect and Entrepreneur",
+    "description": "Innovative thought leader",
+    "image": "profilepic.png",
+    "bio": "Hi, I am Mike! A fearless, humble, and passionate leader with a burning desire to be an inspirational role model that helps unlock the capacity of the organization to draw out potential in people, and to drive the progressive realization of innovative thinking.",
+    "contactmessage": "Get in touch with me",
+    "email": "mike@mikereams.com",
+    "phone": "+1",
+    "address": {
+      "street": "",
+      "city": "Medina",
+      "state": "Ohio",
+      "zip": "44256"
+    },
+    "website": "https://www.mikereams.com/",
+    "resumedownload": "/Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mikereams",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mikereams",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/creativesocial_nft/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/createsocialnft",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Technology Proficiency",
+    "education": [
+      {
+        "school": "Valdosta State University",
+        "degree": "Computer Science",
+        "graduated": "Business Management",
+        "description": "I was a drop-in for 4 years while studying for my Business Management and Computer Science degree."
+      }
+    ],
+    "work": [
+      {
+        "company": "Creative Social NFT",
+        "title": "Co-Founder",
+        "years": "January 2022 - Present",
+        "description": "We provide a global community platform where creators can collaborate and develop innovative ways to supercharge their brands."
+      },
+      {
+        "company": "Quadax",
+        "title": "Director of Enterprise Architecture",
+        "years": "June 2019 - Present",
+        "description": "Cleveland, OH - Built and lead a highly skilled team of architects in establishing and directing the architectural vision. Developed an Enterprise Architecture (EA) program"
+      },
+      {
+        "company": "Cox Enterprises Inc.",
+        "title": "Lead Enterprise Architect",
+        "years": "May 2008 - June 2019",
+        "description": "Atlanta, GA - Orchestrated the EA program for generating deliverables which guide the direction for managing 50+ enterprise portfolio and business strategies. Core responsibilities included Roadmaps, Designs, Investment Portfolio, Research, Digital Presence, Long-Range Budget Planning, Technology Expertise, Technical Writer, and Black Ops."
+      },
+      {
+        "company": "Porsche Cars North America",
+        "title": "Portal Consultant",
+        "years": "Oct 2006 - Feb 2009",
+        "description": "Atlanta, GA - Provided outside consulting for administration to Plumtree G6 Portal."
+      },
+      {
+        "company": "NASCO",
+        "title": "Sr. Server Engineer",
+        "years": "Sep 2005 - Jul 2006",
+        "description": "Atlanta, GA - Responsible for managing 100 + Physical servers, over 100 + Virtual servers, and SAN/Network appliances in the Datacenter."
+      },
+      {
+        "company": "American Cancer Society",
+        "title": "Web Systems Engineer",
+        "years": "Dec 2004 - Sep 2005",
+        "description": "Atlanta, GA - Provided administrative support for the Plumtree Portal platform and developed .NET portlets for executive reporting and searching capabilities."
+      },
+      {
+        "company": "The EPI Companies",
+        "title": "System and Application Support",
+        "years": "Jul 2003 - Dec 2004",
+        "description": "Atlanta, GA - Provided the overall company IT support along with managing the IT budget. Collaborated with the CEO and VP’s on aligning the technology with the business strategy"
+      },
+      {
+        "company": "IBM Global Business Services",
+        "title": "Sr. Systems Support Specialist",
+        "years": "Dec 1999 - Jul 2003",
+        "description": "Atlanta, GA - I began my career through the internship program at Valdosta State which is what brought me to IBM in Atlanta. Provided end-user support for the learning services division in which I learned many different on the IBM software platforms including Tivoli, AIX, DB2, Lotus Notes, and many more."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Enterprise and Solutions Architecture",
+        "level": "100%"
+      },
+      {
+        "name": "Azure",
+        "level": "100%"
+      },
+      {
+        "name": "WEB3 (NextJS, Tailwind, Thirdweb, Moralis, Infura, IPFS, Sanity.io,Cloudinary, Supabase, Firebase, Netlify, Ethereum/Polygon)",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      },
+      ,
+      {
+        "name": "Non-fungible Token Development",
+        "level": "85%"
+      },
+      {
+        "name": "Blockchain Development",
+        "level": "75%"
+      },
+      {
+        "name": "Smart Contracts (Openzeppelin, Remix, Truffle, Hardhat)",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Creative Social NFT Marketplace",
+        "category": "Crypto",
+        "image": "logo.png",
+        "url": "https://creativesocialnft.io"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mike is absolutely fantastic and I would definitely recommend",
+        "user": "Himself (Bias)"
+      }
+    ]
+  }
+}
