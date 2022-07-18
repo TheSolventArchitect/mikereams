@@ -7,7 +7,7 @@
     "bio": "Hi, I am Mike! A fearless, humble, and passionate leader with a burning desire to be an inspirational role model that helps unlock the capacity of the organization to draw out potential in people, and to drive the progressive realization of innovative thinking.",
     "contactmessage": "Get in touch with me",
     "email": "mike@mikereams.com",
-    "phone": "+1",
+    "phone": "",
     "address": {
       "street": "",
       "city": "Medina",
@@ -15,7 +15,7 @@
       "zip": "44256"
     },
     "website": "https://www.mikereams.com/",
-    "resumedownload": "/Resume.pdf",
+    "resumedownload": "/Mike-Reams-Director-Resume.docx",
     "social": [
       {
         "name": "facebook",
@@ -43,10 +43,28 @@
     "skillmessage": "My Technology Proficiency",
     "education": [
       {
+        "school": "Troy University",
+        "degree": "Global Business Management",
+        "graduated": "Business/Managerial Economics",
+        "description": "I was a drop-in for 2 years while studying for a Global Business Management and Computer Science degree."
+      },
+      {
+        "school": "Kennesaw State University",
+        "degree": "Computer Information System",
+        "graduated": "Business Management",
+        "description": "I was a drop-in for 2 years while studying for a Computer Information System degree."
+      },
+      {
         "school": "Valdosta State University",
         "degree": "Computer Science",
         "graduated": "Business Management",
-        "description": "I was a drop-in for 4 years while studying for my Business Management and Computer Science degree."
+        "description": "I was a drop-in for 4 years while studying for a Computer Science degree."
+      },
+      {
+        "school": "Madison County High School",
+        "degree": "General Studies",
+        "graduated": "Diploma",
+        "description": "Yes, I graduated from a high school! I was awarded an academic scholarship for the top student athlete"
       }
     ],
     "work": [
@@ -105,11 +123,11 @@
         "level": "100%"
       },
       {
-        "name": "Azure",
+        "name": "Azure - 6 Certifications",
         "level": "100%"
       },
       {
-        "name": "WEB3 (NextJS, Tailwind, Thirdweb, Moralis, Infura, IPFS, Sanity.io,Cloudinary, Supabase, Firebase, Netlify, Ethereum/Polygon)",
+        "name": "WEB3 (Thirdweb, Alchemy, Moralis, IPFS, Supabase)",
         "level": "95%"
       },
       {
@@ -117,10 +135,9 @@
         "level": "95%"
       },
       {
-        "name": "Web Development",
+        "name": "Web Development (NextJS, Tailwind, Figma)",
         "level": "90%"
       },
-      ,
       {
         "name": "Non-fungible Token Development",
         "level": "85%"
@@ -142,14 +159,74 @@
         "category": "Crypto",
         "image": "logo.png",
         "url": "https://creativesocialnft.io"
+      },
+      {
+        "title": "Decentralized Application",
+        "category": "Crypto",
+        "image": "logo.png",
+        "url": "https://dapp.creativesocialnft.io"
+      },
+      {
+        "title": "NFT Challenge",
+        "category": "NFT",
+        "image": "profile.gif",
+        "url": "https://nft-challenge-sigma.vercel.app/"
+      }
+    ]
+  },
+  "certifications": {
+    "certs": [
+      {
+        "title": "Microsoft Certified: Azure Solutions Architect Expert",
+        "category": "November 2022",
+        "image": "azure-solutions-architect-expert.png",
+        "url": "https://www.credly.com/earner/earned/badge/49014b5a-2197-4c10-9dd3-7af3cd7b44a6"
+      },
+      {
+        "title": "Microsoft Certified: Azure Data Fundamentals",
+        "category": "August 2020",
+        "image": "azure-data-fundamentals.png",
+        "url": "https://www.credly.com/earner/earned/badge/593a1b8e-c873-4b2e-9448-0b9108293bb4"
+      },
+      {
+        "title": "Microsoft 365 Certified: Fundamentals",
+        "category": "August 2020",
+        "image": "microsoft365-fundamentals.png",
+        "url": "https://www.credly.com/badges/dcac91f6-07da-418f-bf7d-17997335a5fa/linked_in_profile"
+      },
+      {
+        "title": "Microsoft Certified: Azure Fundamentals",
+        "category": "June 2020",
+        "image": "Azure-Fundamentals.png",
+        "url": "https://www.credly.com/badges/7f566802-b2d7-435c-b5f9-163e3155cf97/linked_in_profile"
+      },
+      {
+        "title": "AZ-303: Microsoft Azure Architect Technologies",
+        "category": "November 2020",
+        "image": "EXAM-Expert-AZ-303.png",
+        "url": "https://www.credly.com/badges/bd71249f-1ef5-4323-8343-59da4b3558e3/linked_in_profile"
+      },
+      {
+        "title": "AZ-304: Microsoft Azure Architect Design",
+        "category": "October 2020",
+        "image": "EXAM-Expert-AZ-304.png",
+        "url": "https://www.credly.com/badges/df2d8f7b-9c2a-4451-9454-2b7aa0d31529/linked_in_profile"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Mike is absolutely fantastic and I would definitely recommend",
-        "user": "Himself (Bias)"
+        "text": "I was lucky enough to report to Mike. He truly is a Swiss Army knife - willing to get his hands dirty while sharing knowledge with every team member involved. His eagerness to continue learning every day is infectious and makes everyone in his orbit better for having been around him.",
+        "user": "Brandon Evans"
+      },
+      {
+        "text": "I have had the pleasure of working with Mike on various projects and can rely on him to come through with the best possible solution for any problem I bring to his doorstep. His innate level of professionalism and upbeat nature is contagious and brings out the best in those that work with him, for him and simply put, anyone within earshot. His unwavering enthusiasm for life, family and work are second to none. Mike's ability to continuously solve problems while simultaneously deciphering ways to streamline the company's enterprise architecture makes him an extremely invaluable asset.",
+        "user": "Michael O'Toole"
+      },
+      {
+        "text": "Michael helped our company step outside of our environment and think about how we might operate differently to improve productivity and quality of performance. With his expertise in the application of Lean Sigma and his ability to teach it, we tackled many problems and developed solutions that we are now implementing.",
+        "user": "Daryl Moore"
       }
     ]
   }

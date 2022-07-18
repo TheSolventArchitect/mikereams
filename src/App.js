@@ -9,6 +9,7 @@ import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 
 import "./App.css";
+import Certifications from "./Components/Certifications";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
@@ -27,6 +28,7 @@ const App = () => {
       <About data={resumeData.main} />
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />
+      <Certifications data={resumeData.certifications} />
       <Testimonials data={resumeData.testimonials} />
       <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />
